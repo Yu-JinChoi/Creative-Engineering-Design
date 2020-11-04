@@ -5,6 +5,8 @@
 ### p1. hello kitty
 * * *
 
+<img width="200" alt="kitty" src="https://user-images.githubusercontent.com/37900415/98112967-50181900-1ee6-11eb-872d-aa62f3b3bc2e.png">
+
 1. 고양이를 터치하면 “야옹” 울음소리를 내고 폰이 진동 (+) 폰으로 앱 실행
   
 2. 폰을 쥐고 흔들면 “야옹” 울음소리를 냄
@@ -13,6 +15,8 @@
 
 ### p2. paint
 * * *
+
+<img width="200" alt="paint" src="https://user-images.githubusercontent.com/37900415/98112998-5e663500-1ee6-11eb-88c6-6d2a34d102a6.png">
 
 * 가상의 페인트 통에 손가락을 담가 색깔 선택
 
@@ -29,6 +33,8 @@
 ### p3. catch mod
 * * *
 
+<img width="200" alt="catch_mod" src="https://user-images.githubusercontent.com/37900415/98113012-61612580-1ee6-11eb-99ce-99796ab25030.png">
+
 * 두더지가 화면의 임의 위치에 나타나면 1초에 한 번씩 이동
 
 * 두더지를 맞추면 폰이 진동하며 “맞춤” 횟수 증가
@@ -41,6 +47,11 @@
 
 ### p4. Paris_Travel
 * * *
+<div>
+    <img width="200" alt="pa" src="https://user-images.githubusercontent.com/37900415/98113023-645c1600-1ee6-11eb-84c1-204f95d0a526.png">
+    <img width="200" alt="ris_Tra" src="https://user-images.githubusercontent.com/37900415/98113028-6625d980-1ee6-11eb-9076-c451c9ef47c7.png">
+    <img width="200" alt="vel" src="https://user-images.githubusercontent.com/37900415/98113038-6aea8d80-1ee6-11eb-9494-12b5e248cdc9.png">
+</div>
 
 * 앱 안에서 다른 앱을 구동할 때 사용하는 ActivityStarter 컴포넌트
 
@@ -58,6 +69,8 @@
 
 ### p5. Lady Bug
 * * *
+
+<img width="200" alt="Lady Bug" src="https://user-images.githubusercontent.com/37900415/98113042-6d4ce780-1ee6-11eb-96ec-6938141e7db3.png">
 
 * 폰을 기울여 무당벌레를 이동시킴
 
